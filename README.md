@@ -2,7 +2,7 @@
 
 ## I am (Cornelius) => Korrels {if you know me else Cornelius}
 
-### A Front-end developer who fell inlove with coding when i relliased any idea could be brought to live with a plan and a few lines of code.
+### A Front-end developer who fell inlove with coding when i relliased any idea could be brought to life with a plan and a few lines of code.
 
 ### I spend the majority of my time coding and improving my skills to become a better developer learing new things about this beautifull thing we call software development - Other hobbies include Health & Fitness, A little bit of Path of Exile the only game i play, Traveling and listening to heavy metal.
 
