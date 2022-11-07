@@ -10,7 +10,7 @@
 1. Reports: A Web based application in React to simplify the proccess of writing incident reports in the Private Security sector.
 2. Frontendmentor Challenges: Trying to take my design skills to new heights
 
-#### Languages I use
+#### Tech Stack
 1. Html
 2. Css / Scss
 3. Javascript
